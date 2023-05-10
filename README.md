@@ -4,6 +4,6 @@ My first respository
   <head>
   </head>
   <body>
-    <h1>My Favorite Series</h1>
+    <center> <h1>My Favorite Series</h1></center>
   </body>
     </html>
